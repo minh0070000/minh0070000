@@ -1,3 +1,4 @@
+<svg>
 <style>
 .kuru {
         border: 5px solid;
@@ -32,6 +33,7 @@
 
     }
 </style>
+</svg>
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100009466564217"><img src="kurukuru-kururing.gif" alt="Banner"></a>
 </p>
