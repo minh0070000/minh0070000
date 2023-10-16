@@ -1,39 +1,4 @@
-<svg>
-<style>
-.kuru {
-        border: 5px solid;
-        animation: colorChange 2.5s infinite;
-        padding: 15px;
-        position: absolute;
-        top: 35%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-    }
 
-    @keyframes colorChange {
-        0% {
-            border-color: red;
-        }
-
-        25% {
-            border-color: blue;
-        }
-
-        50% {
-            border-color: green;
-        }
-
-        75% {
-            border-color: yellow;
-        }
-
-        100% {
-            border-color: red;
-        }
-
-    }
-</style>
-</svg>
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100009466564217"><img src="kurukuru-kururing.gif" alt="Banner"></a>
 </p>
