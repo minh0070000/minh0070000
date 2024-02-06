@@ -1,10 +1,11 @@
 <link rel="stylesheet" type="text/css" href="minh.css">
+<div class="gif">
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100009466564217"><img src="kurukuru-kururing.gif" alt="Banner"></a>
+</p><p align="left">
+  <a href="https://www.facebook.com/profile.php?id=100009466564217"><img src="furina.gif" alt="Banner"></a>
 </p>
-<p align="left">
-  <a href="https://www.facebook.com/profile.php?id=100009466564217"><img src="kurukuru-kururing.gif" alt="Banner"></a>
-</p>
+</div>
 <h1 class="kuru" align="center">Hi, I'm <a  class="kuru" href="https://www.facebook.com/profile.php?id=100009466564217">minh0070000 aka Azure Fang</a>!</h1>
 <h1 class="kuru" align="center">Welcome to Mr.Minh GitHub profile~ OwO</h1>
 
