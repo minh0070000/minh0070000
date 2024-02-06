@@ -3,6 +3,7 @@
 <p align="center">
   <a align ="left" href="https://www.facebook.com/profile.php?id=100009466564217"><img class="furina" height=100px src="furina.gif" alt="Banner"></a>
   <a href="https://www.facebook.com/profile.php?id=100009466564217"><img src="kurukuru-kururing.gif" alt="Banner"></a>
+  <a align ="right" href="https://www.facebook.com/profile.php?id=100009466564217"><img class="furina" height=100px src="furina2.gif" alt="Banner"></a>
   
 </p>
 
