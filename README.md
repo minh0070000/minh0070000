@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="minh.css">
 <div class="gif">
 <p align="center">
-  <a align ="left" href="https://www.facebook.com/profile.php?id=100009466564217"><img src="furina.gif" alt="Banner"></a>
+  <a  href="https://www.facebook.com/profile.php?id=100009466564217"><img align ="left" src="furina.gif" alt="Banner"></a>
   <a href="https://www.facebook.com/profile.php?id=100009466564217"><img src="kurukuru-kururing.gif" alt="Banner"></a>
   
 </p>
