@@ -8,7 +8,9 @@
         left: 50%;
         transform: translate(-50%, -50%);
     }
-
+.furina{
+        padding-bottom:0px;
+}
     @keyframes colorChange {
         0% {
             border-color: red;
